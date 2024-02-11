@@ -15,7 +15,7 @@
        "&kp ESCAPE",  "&kp Q",         "&kp W",    "&kp E",     "&kp R",  "&kp T",               "&none",                                                                                   "&none",  "&kp Y",  "&kp U",     "&kp I",    "&kp O",    "&kp P",  "&kp BSLH",
           "&kp TAB",  "&kp A",         "&kp S",    "&kp D",     "&kp F",  "&kp G",               "&none",    "&kp EQUAL",     "&kp LALT",                      "&kp LGUI", "&kp MINUS",     "&none",  "&kp H",  "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
         "&kp LSHFT",  "&kp Z",         "&kp X",    "&kp C",     "&kp V",  "&kp B",                                            "&kp HOME",                     "&kp PG_UP",                            "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
-           "&tog 4",  "&mo 2", "&kp BACKSPACE", "&kp LEFT", "&kp RIGHT",                     "&kp LCTRL", "&kp LEFT_ALT", "&kp LEFT_WIN",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
+            "&to 4",  "&mo 2", "&kp BACKSPACE", "&kp LEFT", "&kp RIGHT",                     "&kp LCTRL", "&kp LEFT_ALT", "&kp LEFT_WIN",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ], [
        "&kp EQUAL", "&kp N1",        "&kp N2",   "&kp N3",    "&kp N4", "&kp N5",                     "&trans",                                                                               "&mo 3", "&kp N6",        "&kp A", "&kp KP_EQUAL", "&kp KP_DIVIDE", "&kp KP_MULTIPLY", "&kp MINUS",
          "&kp TAB",  "&kp Q",         "&kp W",    "&kp E",     "&kp R",  "&kp T",                      "&none",                                                                               "&none",  "&kp Y",    "&kp KP_N7",    "&kp KP_N8",     "&kp KP_N9",    "&kp KP_MINUS",  "&kp BSLH",
@@ -39,7 +39,7 @@
        "&kp ESCAPE",            "&kp G",         "&kp Q",    "&kp W",     "&kp E",  "&kp R",               "&none",                                                                                   "&none",  "&kp Y",  "&kp U",     "&kp I",    "&kp O",    "&kp P",  "&kp BSLH",
           "&kp TAB",        "&kp LSHFT",         "&kp A",    "&kp S",     "&kp D",  "&kp F",               "&none",    "&kp EQUAL",     "&kp LALT",                      "&kp LGUI", "&kp MINUS",     "&none",  "&kp H",  "&kp J",     "&kp K",    "&kp L", "&kp SEMI",   "&kp SQT",
         "&kp LSHFT", "&kp LEFT_CONTROL",         "&kp M",    "&kp C",     "&kp V",  "&kp B",                                            "&kp HOME",                     "&kp PG_UP",                            "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
-            "&none",            "&mo 2", "&kp BACKSPACE", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE", "&kp LEFT_ALT", "&kp LEFT_WIN",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
+            "&to 0",            "&mo 2", "&kp BACKSPACE", "&kp LEFT", "&kp RIGHT",                     "&kp SPACE", "&kp LEFT_ALT", "&kp LEFT_WIN",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ]
   ]
 }
