@@ -42,11 +42,11 @@
         "&none",   "&kp LEFT_SHIFT",        "&kp A",        "&kp S",        "&kp D",        "&kp F",                                        "&kp HOME",                     "&kp PG_UP",                            "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT", "&kp FSLH", "&kp RSHFT",
         "&mo 2", "&kp LEFT_CONTROL",        "&kp Z",        "&kp X",        "&kp C",                              "&kp SPACE",     "&kp V",    "&kp M",                     "&kp PG_DN", "&kp ENTER", "&kp SPACE",           "&kp UP",  "&kp DOWN", "&kp LBKT", "&kp RBKT",     "&mo 2"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",           "&trans", "&trans",                      "&to 0",  "&to 0", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                            "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp LCTRL", "&kp LEFT_COMMAND", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",                                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",              "&trans",           "&trans",       "&trans",                      "&to 0",  "&to 0", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                                  "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&kp LCTRL", "&kp LEFT_COMMAND", "&kp LEFT_ALT",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
     ]
   ]
 }
